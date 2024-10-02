@@ -1,9 +1,4 @@
 aiohttp==3.10.5
-async-lru==2.0.3
-attrs==23.1.0
-beautifulsoup4==4.12.2
-cryptography==41.0.2
-fastjsonschema==2.16.2
 GitPython==3.1.43
 google-api-python-client==2.146.0
 google-auth==2.34.0
