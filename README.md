@@ -231,10 +231,9 @@ Run the test suite using the following command:
 ---
 ## 📌 Project Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
+- [X] **`Task 1`**: <strike>Complete Backend and launch.</strike>
+- [ ] **`Task 2`**: Integrate more with Friend Ai wearable.
+- [ ] **`Task 3`**: Target sales.
 ---
 
 ## 🔰 Contributing
